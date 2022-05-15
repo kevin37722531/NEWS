@@ -1,3 +1,0 @@
-# NEWS
-
-NEWS x2
